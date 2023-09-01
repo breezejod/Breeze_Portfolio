@@ -1,0 +1,11 @@
+export const domain = 'brezey.xyz';
+export const httpsurl = 'https://brezey.xyz';
+export const repository = '/';
+export const discord = '514455600508436491';
+export const twitter = 'breezey.xyz';
+export const github = 'breezejod';
+export const linkedin = '/';
+export const instagram = 'breeze.wtf';
+export const opensea = '0xbreeze';
+export const spotify = '/';
+export const snapchat = 'adi.py';

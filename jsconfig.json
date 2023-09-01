@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+      "baseUrl": "./src",
+      "paths": {
+        "@components/*": ["_components/*"],
+        "@styles/*": ["_styles/*"],
+        "@utils/*": ["_utils/*"],
+        "@constants/*": ["_constants/*"]
+      }
+    },
+    "include": ["src/**/*.js", "src/**/*.jsx", "src/**/*.ts", "src/**/*.tsx"]
+  }
+  
