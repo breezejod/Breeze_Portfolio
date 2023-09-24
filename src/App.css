@@ -6,3 +6,18 @@
     @apply font-bold transition-all duration-700 cursor-pointer hover:underline underline-offset-4 decoration-primary;
 
 }
+
+    /* Custom scrollbar styles */
+    ::-webkit-scrollbar {
+      width: 8px; /* You can adjust the width as desired */
+    }
+
+    ::-webkit-scrollbar-thumb {
+      background-color: #ffcc00; /* Change this to the color you want */
+      border-radius: 4px;
+    }
+
+    ::-webkit-scrollbar-track {
+      background-color: #333; /* Change this to the color you want for the track */
+    }
+  

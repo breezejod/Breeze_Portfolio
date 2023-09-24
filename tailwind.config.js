@@ -2,12 +2,17 @@
 module.exports = {
   content: ["./src/**/*.{html,js,jsx}"],
   theme: {
-    extend: { 
-      colors: { 
+    fontFamily: {
+      lobster: ['Lobster', 'cursive'],
+      pacifico: ['Pacifico', 'cursive'],
+      poppins: ['Poppins', 'sans-serif'],
+      'sedgwick-ave-display': ['Sedgwick Ave Display', 'cursive'],
+    },
+    extend: {
+      colors: {
         primary: "#f87171",
-       }
-     },
+      },
+    },
   },
   plugins: [],
-}
-
+};
