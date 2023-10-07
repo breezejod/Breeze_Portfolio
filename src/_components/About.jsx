@@ -58,8 +58,8 @@ const About = () => {
               </p>
             </p>
           </h2>
-          <div class="flex items-center justify-center pb-4">
-            <button class="pt-1 pb-1 pl-1 pr-1 font-medium text-neutral-500 border rounded-lg transition-transform hover:border-slate-700 transform hover:scale-105 hover:text-white">
+          <div className="flex items-center justify-center pb-4">
+            <button className="pt-1 pb-1 pl-1 pr-1 font-medium text-neutral-500 border rounded-lg transition-transform hover:border-slate-700 transform hover:scale-105 hover:text-white">
               Download Web3 Resume
             </button>
           </div>
@@ -80,8 +80,8 @@ const About = () => {
               </span>
             </p>
           </div>
-          <div class="flex items-center justify-center pb-4">
-            <button class="pt-1 pb-1 pl-1 pr-1 font-medium text-neutral-500 border rounded-lg transition-transform hover:border-slate-700 transform hover:scale-105 hover:text-white">
+          <div className="flex items-center justify-center pb-4">
+            <button className="pt-1 pb-1 pl-1 pr-1 font-medium text-neutral-500 border rounded-lg transition-transform hover:border-slate-700 transform hover:scale-105 hover:text-white">
               Download Dev Resume
             </button>
           </div>
