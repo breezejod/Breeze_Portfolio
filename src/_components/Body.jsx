@@ -66,18 +66,18 @@ const Body = () => {
           {/* <div> */}
           <div className="flex items-center justify-center pt-20 mt-1 space-x-20 pr-80">
             <a href="/" target="_blank">
-              <i class="bx bxl-github bx-md bx-flashing-hover"></i>
+              <i className="bx bxl-github bx-md bx-flashing-hover"></i>
             </a>
             <a href="/" target="_blank">
               {" "}
-              <i class="bx bxl-twitter bx-md bx-flashing-hover"></i>
+              <i className="bx bxl-twitter bx-md bx-flashing-hover"></i>
             </a>
             <a href="/" target="_blank">
-              <i class="bx bxl-spotify bx-md bx-flashing-hover"></i>
+              <i className="bx bxl-spotify bx-md bx-flashing-hover"></i>
             </a>
             <a href="/" target="_blank">
               {" "}
-              <i class="bx bxl-linkedin bx-md bx-flashing-hover"></i>
+              <i className="bx bxl-linkedin bx-md bx-flashing-hover"></i>
             </a>
           </div>
           {/* </div> */}
